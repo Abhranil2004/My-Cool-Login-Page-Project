@@ -38,4 +38,4 @@ A sleek and functional login page built using the power of HTML and CSS.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/<repo-name>.git
+   git clone (https://github.com/Abhranil2004/My-Cool-Login-Page-Project.git)
