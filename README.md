@@ -31,6 +31,8 @@ A sleek and functional login page built using the power of HTML and CSS.
 ### Final Login Page pic
 ![final Result](https://github.com/Abhranil2004/My-Cool-Login-Page-Project/blob/general/screencapture-file-F-Modern-login-page-index-html-2024-04-01-17_14_08.png)
 
+### Demo video
+![Demo GIF of my login page](https://github.com/Abhranil2004/My-Cool-Login-Page-Project/blob/general/login%20page%20by%20abhranil%20dutta%20(1).gif)
 
 ## Getting Started
 
